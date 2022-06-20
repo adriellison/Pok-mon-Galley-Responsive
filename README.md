@@ -1,1 +1,1 @@
-# Pok-mon-Galley-Responsive
+# Pok-mon-Gallery-Responsive
